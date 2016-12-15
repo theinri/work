@@ -1,0 +1,45 @@
+
+
+.popover>.arrow, .popover>.arrow:after{
+    display: none;
+}
+#phase_1_photo {
+    margin-top: -50px;
+    position: absolute;
+    clip: rect(50px, 1920px, 720px, 0px);
+    filter: saturate(0.5);
+}
+#phase_2_photo {
+    margin-top: -50px;
+    position: absolute;
+    clip: rect(50px, 1920px, 720px, 0px);
+}
+#phase_3_photo {
+    margin-top: -50px;
+    position: absolute;
+    clip: rect(50px, 1920px, 720px, 0px);
+}
+#phase_4_photo {
+    margin-top: -50px;
+    position: absolute;
+    clip: rect(50px, 1920px, 720px, 0px);
+}
+#phase_5_photo {
+    margin-top: -50px;
+    margin-left: -20px;
+    position: absolute;
+    clip: rect(50px, 2304px, 720px, 0px);
+}
+#phase_6_photo {
+    margin-top: -50px;
+    position: absolute;
+    clip: rect(50px, 1920px, 720px, 0px);
+}
+#phase_7_photo {
+    margin-top: -50px;
+    position: absolute;
+   clip: rect(50px, 1920px, 720px, 0px);
+}
+h1{
+    color: grey;
+}
